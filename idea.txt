@@ -1,0 +1,8 @@
+moim pomysłem na projekt jest strona internetowa
+dla mojej mamy aby pomoc jej zacząć szkole językowa
+chce aby można było utworzyć konto oraz bazę danych uczniów
+
+paleta kolorów:
+tło: F8FBFA
+tekst: 02040D
+akcent: 9F92F2; 170E24
